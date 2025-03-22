@@ -2,9 +2,7 @@ jupyter
 notebook
 numpy
 pandas
-matplotlib
-seaborn
-scikit-learn
 pytest
 black
 pylint
+openai
