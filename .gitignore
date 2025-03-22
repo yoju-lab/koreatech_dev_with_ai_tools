@@ -129,6 +129,7 @@ celerybeat.pid
 
 # Environments
 .env
+!dockers/.env
 .venv
 env/
 venv/
