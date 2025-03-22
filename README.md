@@ -20,9 +20,7 @@ This development container provides a pre-configured environment for Python deve
 ### Starting Jupyter Notebook
 
 1. Open a terminal in VS Code
-2. Run: `jupyter notebook --allow-root --ip=0.0.0.0`
-3. The Jupyter server will start and be accessible at `http://localhost:8888`
-4. You can also use the "Jupyter" extension in VS Code to open and run notebooks directly
+3. You can also use the "Jupyter" extension in VS Code to open and run notebooks directly
 
 ### Creating a New Notebook
 
