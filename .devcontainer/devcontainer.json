@@ -1,8 +1,8 @@
 {
     "name": "Koreatech Dev Environment",
-    // "dockerComposeFile": "../dockers/docker-compose.yml",
+    "dockerComposeFile": "../dockers/docker-compose.yml",
     "service": "app",
-    // "workspaceFolder": "/workspace",
+    "workspaceFolder": "/apps",
     
     "customizations": {
         "vscode": {
