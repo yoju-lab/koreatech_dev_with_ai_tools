@@ -1,6 +1,6 @@
 # test_factorial.py - pytest 스타일의 테스트 코드
 import pytest
-from factorial import factorial
+from factorials import factorial
 
 def test_factorial_basic():
     # 일반 사례: 5! = 120, 그리고 0! = 1, 1! = 1
