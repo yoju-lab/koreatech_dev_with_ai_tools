@@ -10,4 +10,4 @@
 ------- 3차 --------
 수정했던 하위 링크 내용 수집을 OPENAI 프롬프트로 수정
 - 같은 폴더 있는 01_openAI_chat_completions.py > chat_with_gpt() 사용
-- 결과 반환은 JSON 형식
+- 결과 반환은 JSON 형식으로 반환 저장(summary_news.json)

@@ -43,5 +43,6 @@ for link in news_data:
     article_data = extract_article_data_with_gpt(link)
     collected_data.append({'link': link, 'data': article_data})
 
-# Print the collected news data in JSON format
-print(json.dumps(collected_data, ensure_ascii=False, indent=4))
+# Save the collected news data in JSON format
+with open('summary_news.json', 'w', encoding='utf-8') as f:
+    json.dump(collected_data, f, ensure_ascii=False, indent=4)
