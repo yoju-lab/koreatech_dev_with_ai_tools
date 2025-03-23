@@ -7,3 +7,4 @@ pytest
 black
 pylint
 dotenv
+beautifulsoup4
